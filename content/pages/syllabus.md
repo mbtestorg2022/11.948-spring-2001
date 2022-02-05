@@ -49,11 +49,56 @@ Course Requirements
 
 Your work for the semester will be evaluated in four ways:
 
-| ACTIVITY | PERCENTAGE |
-| --- | --- |
-| Participation in Class | 20% |
-| A Journal, to be turned in weekly via Email | 30% |
-| A Proposal for a Project | 10% |
-| The Project itself | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in Class
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A Journal, to be turned in weekly via Email
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A Proposal for a Project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Project itself
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Ongoing work and the final project will be posted online. There will be no final exam.
